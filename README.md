@@ -6,7 +6,7 @@
 
 ## Credits
 All data from :
-  - [twelvedata]"https://twelvedata.com/"
+  - [twelvedata] https://twelvedata.com/
 
 ## Description
 - Allows users to query for stocks listed across multiple stock exchanges (NASDAQ, NYSE, AMEX...)
