@@ -2,8 +2,8 @@
 
 #### MongoDB, Express.js, React.js, Node.js (MERN)
 
-https://www.youtube.com/watch?v=jfb18YuNJQY&t=6s
-[![IMAGE ALT TEXT](http://img.youtube.com/vi/jfb18YuNJQY&t=6s/0.jpg)](http://www.youtube.com/watch?v=jfb18YuNJQY&t=6s "Video Title")
+[![Everything Is AWESOME](https://img.youtube.com/vi/StTqXEQ2l-Y/0.jpg)](https://www.youtube.com/watch?v=StTqXEQ2l-Y "Everything Is AWESOME")
+
 
 
 ## Description
