@@ -2,6 +2,8 @@
 
 #### MongoDB, Express.js, React.js, Node.js (MERN)
 
+https://www.youtube.com/watch?v=jfb18YuNJQY&t=6s
+
 ## Description
 - Starter app to get me comfortable with the JavaScript frameworks
 - Backend focused (no React in this application)
