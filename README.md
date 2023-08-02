@@ -2,7 +2,7 @@
 
 #### MongoDB, Express.js, React.js, Node.js (MERN)
 
-[![Everything Is AWESOME](https://img.youtube.com/vi/StTqXEQ2l-Y/0.jpg)](https://www.youtube.com/watch?v=StTqXEQ2l-Y "Everything Is AWESOME")
+[![Everything Is AWESOME](https://img.youtube.com/vi/jfb18YuNJQY/0.jpg)](https://www.youtube.com/watch?v=jfb18YuNJQY "Everything Is AWESOME")
 
 
 
