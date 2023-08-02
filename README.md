@@ -3,6 +3,8 @@
 #### MongoDB, Express.js, React.js, Node.js (MERN)
 
 https://www.youtube.com/watch?v=jfb18YuNJQY&t=6s
+[![IMAGE ALT TEXT](http://img.youtube.com/vi/jfb18YuNJQY&t=6s/0.jpg)](http://www.youtube.com/watch?v=jfb18YuNJQY&t=6s "Video Title")
+
 
 ## Description
 - Starter app to get me comfortable with the JavaScript frameworks
