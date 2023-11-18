@@ -119,7 +119,7 @@ a:link {
 }
 
 .stock_details {
-  font-family: "Times New Roman";
+  font-family: "Georgia";
   background-color: #31343a;
   min-height: 113vh;
   color: rgb(255, 255, 255);
@@ -132,7 +132,7 @@ a:link {
 }
 
 .stock_description {
-  font-family: 'Times New Roman';
+  font-family: 'Georgia';
   position: absolute;
   left: 25px;
   width: 35%;
@@ -144,7 +144,7 @@ a:link {
 .stock_chart {
   font-family: 'Georgia';
   position: absolute;
-  right: 10px;
+  right: 15px;
   width: 60%;
   height: 230px; 
 }
@@ -190,7 +190,7 @@ a:link {
   display: flex;
   flex-direction: column;
   align-items: center;
-  font-family: "Times New Roman";
+  font-family: "Georgia";
   padding: 10px;
 }
 

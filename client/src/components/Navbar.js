@@ -1,8 +1,9 @@
-import {useState} from "react";
+import {useState, useEffect} from "react";
 import { Outlet} from "react-router-dom";
 import { useLocation } from 'react-router-dom';
 import useCheck_auth from "./auth/useCheck_auth";
 import Search_form from "./Search_form";
+const keys = require("../keys");
 
 function contains(string, target) {
     return string.indexOf(target) >= 0;
