@@ -1,8 +1,5 @@
-import Stock_info from "./Stock_info";
-import Symbols_dropdown from "./Symbols_dropdown";
 import Stock_loading from "./Stock_loading";
 import News_loading from "./News_loading";
-import News from "./News";
 
 function Home(props) {
     return (

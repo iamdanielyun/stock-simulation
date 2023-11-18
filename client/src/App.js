@@ -7,7 +7,6 @@ import Login from './components/auth/Login';
 import Register from './components/auth/Register';
 import Logout from './components/auth/Logout';
 import Error from './components/Error';
-const keys = require("./keys");
 
 const router = createBrowserRouter(
   createRoutesFromElements(
