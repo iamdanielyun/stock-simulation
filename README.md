@@ -32,16 +32,6 @@ All data from :
 - The express server made all the API calls to third party services and retrieved data in JSON objects
 - Used express-session to authenticate and logout users
 
-## Obstacles
-- Figuring out how to connect the frontend to the backend (ended up using a proxy server to handle both react and express requests)
-- Learning how to use useState and useEffect hooks (first time using React and it took some time getting accustomed to)
-- Entering infinite loops using useEffect
-- Express api routes constantly returning undefined JSON responses
-- Figuring out how to update objects in arrays in a nested schema
-
-## Conclusion
-- First ever MERN stack application
-- Overall it exhausting and discouraging when I constantly ran into bugs but very fun to create
-- Got a basic understanding of what React does and why it's so popular among devs
-- Getting more and more comfortable with Express and backend concepts
-
+#### Deployment
+- Deploying gave me so many headaches - a lot of things that were working in development mode didn't in production, which forced me to change things, such as the cookie configuration for the sessions.
+- Deployed backend and frontend on two different sites both using [https://render.com/](https://render.com/)
