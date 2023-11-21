@@ -30,7 +30,7 @@ All data from :
 - Utilized mongoDB to store user info, including their investments using nested collections
 - Communicated with mongoDB Atlas to get, post and update the user's investments
 - The express server made all the API calls to third party services and retrieved data in JSON objects
-- Used express-session to authenticate and logout users
+- Stored sessions using mongoDBStore
 
 #### Deployment
 - Deploying gave me so many headaches - a lot of things that were working in development mode didn't in production, which forced me to change things, such as the cookie configuration for the sessions.
