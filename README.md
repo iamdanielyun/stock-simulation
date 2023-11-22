@@ -34,4 +34,5 @@ All data from :
 
 #### Deployment
 - Deploying gave me so many headaches - a lot of things that were working in development mode didn't in production, which forced me to change things, such as the cookie configuration for the sessions.
-- Deployed backend and frontend on two different sites both using [https://render.com/](https://render.com/)
+- Deployed frontend on [https://render.com/](https://render.com/)
+- Deployed backend on [https://vercel.com/](https://vercel.com/)
